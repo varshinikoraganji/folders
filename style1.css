@@ -1,0 +1,13 @@
+label{
+    color: brown;
+}
+.solid{
+    background-color: bisque;
+    border: 20px solid;
+    font-weight: 900;
+    padding: 20px;
+    text-align: center;
+}
+.solid:hover {
+    color: darkslateblue;
+}
